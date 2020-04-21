@@ -1,0 +1,31 @@
+body {
+    display: inline-block;
+}
+    .conteiner {
+        display: inline-block;
+        background-color: red;
+    }
+        .left {
+            display: inline-block;
+            background-color: green;
+        }
+        .right {
+            display: inline-block;
+            background-color: blue;
+        }
+        .top {
+            display: inline-block;
+            background-color: black;
+        }
+        .bootom {
+            display: inline-block;
+            background-color: yellowgreen;
+        }
+        .middle {
+            display: inline-block;
+            background-color: yellow;
+        }
+        .center {
+            display: inline-block;
+            background-color: aqua;
+        }
